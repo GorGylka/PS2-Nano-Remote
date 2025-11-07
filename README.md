@@ -2,7 +2,7 @@
 
 <img src="https://github.com/GorGylka/PS2-Nano-Remote/blob/main/test.gif">  
 <img src="https://github.com/GorGylka/PS2-Nano-Remote/blob/main/ps2_remote1.jpg" width=40% height=40%">  
-Nano remote control to On / Off / Reset PS2 ( from SCPH-5000x to SCPH-9000x )  
+Nano TV Remote control to On / Off / Reset PS2 ( from SCPH-5000x to SCPH-9000x )  
 
 Easy build (4 parts), nano size, minimal power consumption  
 
